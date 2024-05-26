@@ -20,6 +20,10 @@
   display: flex;
 }
 
+ul li {
+  font-size: 20px;
+}
+
 h1 {
   font-family: 'Rubik', sans-serif;
   font-size: 3.0rem;
@@ -115,10 +119,10 @@ p {
   cursor: pointer;
 }
 
-ul {
+/* ul {
   list-style-position: inside;
   list-style-type: square;
-}
+} */
 
 .flex-container {
   display: flex;
